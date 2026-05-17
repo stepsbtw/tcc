@@ -1,0 +1,1 @@
+find . -mindepth 2 -name "*.ods" -exec mv -t $(dirname "{}")/.. {} +

@@ -1,0 +1,1 @@
+find IPqM-Fall -name "*.lock" -exec rm -f {} \;
