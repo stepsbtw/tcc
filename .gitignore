@@ -2,3 +2,7 @@ __pycache__
 .venv
 .venv-label
 IPqM-Fall
+checkpoints
+checkpoints_logreg
+checkpoints_logreg
+results
